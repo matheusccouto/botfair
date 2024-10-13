@@ -228,7 +228,7 @@ class Betfair:
                 yield back + lay
 
 
-def login(username: str, password: str, app_key: str, certificate: str, key: str) -> betfair.Betfair:
+def login(username: str, password: str, app_key: str, certificate: str, key: str) -> Betfair:
     """Login on betfair API"""
 
     # Create a temp certificates folder to avoid data leakage.

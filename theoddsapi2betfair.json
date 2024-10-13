@@ -1,0 +1,128 @@
+[
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Arsenal",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 1096
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Aston Villa",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 63908
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Bournemouth",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 1141
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Brentford",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 78864
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Brighton and Hove Albion",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 18567
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Chelsea",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 55190
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Crystal Palace",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 62523
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Everton",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 56343
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Fulham",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 56764
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Ipswich Town",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 48324
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Leicester City",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 48461
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Liverpool",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 56323
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Manchester City",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 47999
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Manchester United",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 48351
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Newcastle United",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 25422
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Nottingham Forest",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 39674645
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Southampton",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 58943
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Tottenham Hotspur",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 48224
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "West Ham United",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 48756
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Wolverhampton Wanderers",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 48044
+    },
+    {
+        "the_odds_api_sport_key": "soccer_epl",
+        "the_odds_api_team": "Draw",
+        "betfair_competition_id": 10932509,
+        "betfair_selection_id": 58805
+    }
+]
