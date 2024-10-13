@@ -32,7 +32,6 @@ def main(*args, **kwargs):  # pylint: disable=unused-argument
         certificate=os.getenv("BETFAIR_CERTIFICATE"),
         key=os.getenv("BETFAIR_KEY"),
     )
-    pass
 
     # # Check and store markets that had already received a bet.
     # already_bet = [o["market_id"] for o in trading.open_bets()]
